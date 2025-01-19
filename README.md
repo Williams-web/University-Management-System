@@ -44,5 +44,5 @@ This project is a University Management System implemented in Java. It allows us
 1. Compile the Java files:
    ```sh
    javac src/*.java
-
+## License
    This `README.md` provides an overview of the project, its features, classes, and instructions on how to run it. Adjust the content as needed to fit your specific project details.
