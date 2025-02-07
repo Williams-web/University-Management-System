@@ -39,7 +39,7 @@ This project is a University Management System implemented in Java. It allows us
 - Entry point of the application.
 - Runs the menu to interact with the user.
 
-## How to Run
+## How to Run.
 
 1. Compile the Java files:
    ```sh
